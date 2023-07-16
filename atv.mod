@@ -16,7 +16,7 @@ content="width=device-width,initial-scale=1.0">
  <div class="container">
   <header>
    <h1>Cabeçalho</h1>
-  <header>
+  </header>
 
   <section class="section">
    <div class="section-title">Chicken</div>
